@@ -1,0 +1,6 @@
+{
+  "API_KEY": "c6E8EUsF0pnJS8J5eyXfdg0T9Ze74O02rikTvR5V",
+  "BASE_API": "https://api.nps.gov/api/v1/",
+  "GET_PARKS": "https://api.nps.gov/api/v1/parks",
+  "GET_ARTICLES": "https://api.nps.gov/api/v1/articles?limit=20"
+}
